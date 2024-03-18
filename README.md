@@ -1,1 +1,1 @@
-This rep is created for analysing spotify data.
+Spotify data analysis project
